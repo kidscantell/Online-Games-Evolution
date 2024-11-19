@@ -1,4 +1,3 @@
-/* General styles */
 body, html {
     margin: 0;
     padding: 0;
@@ -18,7 +17,7 @@ body, html {
 
 /* Backgrounds for each stage */
 .parallax-text {
-    background-image: url('https://www.austinchronicle.com/binary/3ca9/adventureland.jpg'); /* Replace with a text-based game image */
+    background-image: url('https://www.austinchronicle.com/binary/3ca9/adventureland.jpg'); /* text-based game image */
 }
 
 .parallax-pixel {
@@ -26,15 +25,15 @@ body, html {
 }
 
 .parallax-3d {
-    background-image: url('https://www.mobilegamer.com.br/wp-content/uploads/2021/12/noah-hearts.jpg'); /* Replace with a 3D MMO game image */
+    background-image: url('https://www.mobilegamer.com.br/wp-content/uploads/2021/12/noah-hearts.jpg'); /* 3D MMO game image */
 }
 
 .parallax-esports {
-    background-image: url('https://static01.nyt.com/images/2014/08/31/technology/A1-ESPORTS-1/A1-ESPORTS-1-superJumbo.jpg?quality=75&auto=webp'); /* Replace with an eSports tournament image */
+    background-image: url('https://static01.nyt.com/images/2014/08/31/technology/A1-ESPORTS-1/A1-ESPORTS-1-superJumbo.jpg?quality=75&auto=webp'); /*  eSports tournament image */
 }
 
 .parallax-vr {
-    background-image: url('https://www.asus.com/event/oculus-ready-pc/img/vr-gaming-pic2.jpg'); /* Replace with a VR gaming image */
+    background-image: url('https://www.asus.com/event/oculus-ready-pc/img/vr-gaming-pic2.jpg'); /*  VR gaming image */
 }
 
 /* Content sections */
